@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vatsalnannu
+- 👋 Hi, I’m atsal Choudhary @vatsalnannu
 - 👀 I’m interested in solve some real life problems using proframming.
 - 🌱 I’m currently learning web designing.
 - 📫 How to reach me - cvatsal123@gmail.com
